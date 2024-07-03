@@ -17,6 +17,8 @@ I'm a final year undergraduate at IIIT Raipur, specializing in Data Science and 
 
 ### 📫 How to Reach Me
 - Email: priyanshukumawat014@gmail.com
+- LinkedIn: [Priyanshu Kumawat](https://www.linkedin.com/in/priyanshu-kumawat-7bb1a8210/).
+- Instagram: [**_priyanshuk_**](https://www.instagram.com/_priyanshuk_/)
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together!
 
